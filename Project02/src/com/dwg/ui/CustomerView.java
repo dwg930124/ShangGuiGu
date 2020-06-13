@@ -90,5 +90,6 @@ public class CustomerView {
         CustomerView customerView = new CustomerView();
 
         customerView.enterMainMenu();
+
     }
 }
